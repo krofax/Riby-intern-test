@@ -12,7 +12,7 @@ class App extends Component {
             <a class="navbar-brand" href=" " target="_blank">
               <img src="" width="30" height="30" alt="Riby krofax test" />
             </a>
-            <Link to="/" className="navbar-brand">Riby Intern Test</Link>
+            <Link to="/" className="navbar-brand">Home</Link>
             <div className="collpase navbar-collapse">
               <ul className="navbar-nav mr-auto">
                 <li className="navbar-item">
