@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "ribytst",
+        "MONGO_PASSWORD": "beveloper",
+        "MONGO_DB": "ribyproduct"
+    }
+}
